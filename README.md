@@ -19,6 +19,15 @@ This application represents an online store for mobile phones developed in Larav
 - Admin panel for managing products and users
 - Secure user authentication
 
+## Login Credentials
+- **Admin:**  
+  - Email: admin@gmail.com  
+  - Password: Admin123!  
+
+- **User:**  
+  - Email: user@gmail.com  
+  - Password: User123!  
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
