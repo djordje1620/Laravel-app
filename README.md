@@ -12,11 +12,6 @@
 ## Description
 This application represents an online store for mobile phones developed in Laravel. Users can browse various phone models, add them to their cart, and complete purchases. Administrators have access to an admin panel where they can manage products, orders, and user accounts.
 
-## Technologies
-- **Backend:** Laravel
-- **Database:** MySQL
-- **Template:** Blade
-
 ## Features
 - Browse available phones
 - Add phones to the cart
